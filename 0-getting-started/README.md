@@ -3,7 +3,7 @@
 *** heavily borrowed from Julia (Ellen n Peter's last team leader) ***
 
 ## Table of Contents
-* [Logistics]
+* [Logistics](#logistics)
 * [Bonding Activities](#bonding)
 * [Web team Code](#code)
 * [Tools](#tools)
