@@ -167,3 +167,4 @@ to do if you're stuck.
 ### General Notes
 * Don't be intimidated by this assignment! Please please reach out to Ellen and/or Peter if you have any concerns. We're here to help!
 * This assignment is mainly for us to gauge where you guys are technically. If you're not comfortable with React yet, that's perfectly fine! 
+* We know there's a lot of technical setup involved. But once you do finish setting up your dev environment, learn how to use Git, etc. it'll be smooth sailing from here, we promise! 
