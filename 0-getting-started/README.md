@@ -140,6 +140,22 @@ to do if you're stuck.
       1. `cd` into the cloned repo on your terminal
       2. run `git remote add origin https://github.com/USERNAME/REPOSITORY.git` where USERNAME is your github username & REPOSITORY is the name of the repo you've just created.
     * After all of these steps, run `git remote -v` to double check that it lists the repository you've created under your own github, NOT `https://github.com/cle1994/react-frontend-boilerplate.git`. If it says this, please refer back to the steps above or message Ellen or Peter if you're having any trouble!
-* `cd` into the folder (you can rename it to whatever you want) and run `yarn install`, this will install all dependencies in `package.json`
+* `cd` into the folder (you can rename it to whatever you want) and run `yarn install`. This will install all dependencies in `package.json`
   * If this doesn't work, try running `npm install` instead.
 * Run `npm run dev` to start developing!
+  * It should start up a server at http://localhost:3000/ where you should be able to see the boilerplate in action! It should be a black screen with a counter.
+
+### Starting the assignment
+* If you're familiar with [React](https://facebook.github.io/react/), show us what you know! Make use of components, props, event handlers, etc. 
+* Otherwise, if you're mainly comfortable with just HTML/CSS:
+  * `src/components/Home.js` is where the HTML will live -- specifically, in the block under `render() { return (`. 
+    * Write HTML as you normally would in this block, but use `className` instead of `class` or `id `
+    * If you're using Sublime & you notice that the color syntax highlighting is off, it's probably because your language (at the bottom right corner) is set to Javascript. If you haven't already, refer to [Useful Sublime Text Plugins](#sublime) -- download the Package Manager, then install Babel. Then set your language to Babel & w o w! pretty colors :~)
+  * Write your CSS in `styles/home.scss` 
+    * Note that this is a .scss file. SCSS is basically just an extension of CSS with features like nesting, variable naming, and a lot of things that'll make your life a lot easier. It's fairly simple to learn by just reading documentation [here](http://sass-lang.com/guide).
+    * If you're unfamiliar with SCSS, you can also just write normal CSS in this file.
+
+### General Notes
+* Don't be intimidated by this assignment! Please please reach out to Ellen and/or Peter if you have any concerns. We're here to help!
+* This assignment is mainly for us to gauge where you guys are technically. If you're not comfortable with React yet, that's perfectly fine! 
+* Although 
