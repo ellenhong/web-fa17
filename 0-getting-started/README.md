@@ -129,7 +129,7 @@ to do if you're stuck.
   * Feel free to change some things if you want to make it "your own"
 * Push to [GitHub Pages](https://pages.github.com/) (project site, not user site) when you're done and post it in the group along with the GitHub repo!
 
-### Directions on using the boilerplate
+### Directions on using the boilerplate <a name="boilerplate"></a>
 * Clone or download the [repo](https://github.com/cle1994/react-frontend-boilerplate)
     * ~ IMPORTANT ~: If you clone it (git clone), you'll have to change the URL of the remote. This means you should:
       1. Create a new repo in your github. (Go to github.com & click the "+" button in the top right corner -> "New repository")
@@ -154,6 +154,15 @@ to do if you're stuck.
   * Write your CSS in `styles/home.scss` 
     * Note that this is a .scss file. SCSS is basically just an extension of CSS with features like nesting, variable naming, and a lot of things that'll make your life a lot easier. It's fairly simple to learn by just reading documentation [here](http://sass-lang.com/guide).
     * If you're unfamiliar with SCSS, you can also just write normal CSS in this file.
+
+### Pushing your changes
+* Run `git remote -v` & DOUBLE CHECK again that it does NOT list `https://github.com/cle1994/react-frontend-boilerplate.git`. If it does, refer to [these directions](#boilerplate) again.
+* When you're ready to push changes to your remote repo, run the following commands:
+  * `git status` to see which files you've changed
+  * `git add _____` for the files you wish to include in the commit (eg. `git add src/components/Home.js`)
+  * `git commit -m _____` (eg. `git commit -m "Added nav bar"`)
+  * `git push origin master`
+* Open up your github repo on a browser & you should be able to see your commits there
 
 ### General Notes
 * Don't be intimidated by this assignment! Please please reach out to Ellen and/or Peter if you have any concerns. We're here to help!
