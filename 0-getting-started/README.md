@@ -130,6 +130,16 @@ to do if you're stuck.
 * Push to [GitHub Pages](https://pages.github.com/) (project site, not user site) when you're done and post it in the group along with the GitHub repo!
 
 ### Directions on using the boilerplate
-* Clone or download the repo, if you clone it you will have to change the remote to your own repo in order to push
+* Clone or download the [repo](https://github.com/cle1994/react-frontend-boilerplate)
+    * ~ IMPORTANT ~: If you clone it (git clone), you'll have to change the URL of the remote. This means you should:
+      1. Create a new repo in your github. (Go to github.com & click the "+" button in the top right corner -> "New repository")
+      2. Name the repo something like "nobly-recreation"
+      3. `cd` into the cloned repo on your terminal
+      4. run `git remote set-url https://github.com/USERNAME/REPOSITORY.git` where USERNAME is your github username & REPOSITORY is the name of the repo you've just created.
+    * Otherwise, if you download the folder, you will just want to create a new repo (steps a & b above), then:
+      1. `cd` into the cloned repo on your terminal
+      2. run `git remote add origin https://github.com/USERNAME/REPOSITORY.git` where USERNAME is your github username & REPOSITORY is the name of the repo you've just created.
+    * After all of these steps, run `git remote -v` to double check that it lists the repository you've created under your own github, NOT `https://github.com/cle1994/react-frontend-boilerplate.git`. If it says this, please refer back to the steps above or message Ellen or Peter if you're having any trouble!
 * `cd` into the folder (you can rename it to whatever you want) and run `yarn install`, this will install all dependencies in `package.json`
+  * If this doesn't work, try running `npm install` instead.
 * Run `npm run dev` to start developing!
