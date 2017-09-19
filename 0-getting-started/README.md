@@ -123,7 +123,9 @@ to do if you're stuck.
 * Chrome Developer Tools is your friend.
 
 ## Activity <a name="activity"></a>
-* Recreate the [Virgin America website](http://virginamerica.com) as best you can using the style guide and SCSS, with this [React boilerplate](https://github.com/cle1994/react-frontend-boilerplate)!
+* Recreate the [Nobly website](http://www.nobly.com/) as best you can using the style guide and SCSS, with this [React boilerplate](https://github.com/cle1994/react-frontend-boilerplate)!
+  * Don't worry about any of the fancy effects/animations, focus on the layout.
+  * Unless you want to, you don't have to include the testimonial/quote section or the section under it with the blog posts.
   * Feel free to change some things if you want to make it "your own"
 * Push to [GitHub Pages](https://pages.github.com/) (project site, not user site) when you're done and post it in the group along with the GitHub repo!
 
