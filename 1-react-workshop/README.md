@@ -10,10 +10,6 @@
   * Do it by the end of this meeting or we will CALL YOU OUT.
 * Pay your dues!
   * $30 venmo @innoD pretty plssss
-* Come to retreat y'all!!! It's this coming Friday thru Sunday (Sep 29 - Oct 1)
-  * Peter n I will be there & we promise it'll be FUN !!
-  * Form [here](https://docs.google.com/forms/d/e/1FAIpQLSdmMf1XTEtPJoIgW1VwMV2t5Le-2Jo0E1zvNdQa_wu94g-_Vg/viewform)
-  * $45 venmo @innoD
 * Follow & add songs to our [SPOTIFY PLAYLIST](https://open.spotify.com/user/ellenphantt/playlist/24uFfWtpzXkcgIoGSKhnck)
     
 ## Activity! <a name="activity"></a>
@@ -26,6 +22,7 @@
 
 ## React Lesson <a name="lesson"></a>
 * All eyes on Peter now :^)
+* Slides [here](https://docs.google.com/presentation/d/1I0WCMyMinoNldM9aKh1sXTZYmMTXi5u4jgvHHAwDdY0/edit)
 * ~ will post lesson notes afterwards ~ but try to take your own notes!
 
 
