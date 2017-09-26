@@ -18,10 +18,11 @@
     
 ## Activity! <a name="activity"></a>
 * Pair up with a friend -- try to pick somebody you haven't met yet : )
-* Find a website that you both think is ~ *aesthetic* ~
+* Come up with a NEW social media website
+  * It can be a dating app, photos, news feed, anything connected to social media
 * Make a [Figma](https://www.figma.com/) account
 * Create a lo-fi mockup using Figma
-  * AKA get the structures down; map out where the divs are
+  * Create rough boxes & text; map out where the divs are
 
 ## React Lesson <a name="lesson"></a>
 * All eyes on Peter now :^)
